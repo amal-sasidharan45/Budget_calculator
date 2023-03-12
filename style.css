@@ -1,0 +1,82 @@
+body{
+    background-image: url('./images/bg-img-2.webp');;background-size: cover;
+}
+
+  
+ #radius-shape-1 {
+    height: 220px;
+    width: 220px;
+    top: -60px;
+    left: -130px;
+    
+    overflow: hidden;
+  }
+
+  #radius-shape-2 {
+    border-radius: 38% 62% 63% 37% / 70% 33% 67% 30%;
+    bottom: -60px;
+    right: -110px;
+    width: 300px;
+    height: 300px;
+
+    overflow: hidden;
+  }
+
+  .bg-glass {
+    background-color: hsla(0, 0%, 100%, 0.9) !important;
+    backdrop-filter: saturate(200%) blur(25px);
+  }
+  .link{
+    text-decoration: none;
+  }
+  .button{
+padding-left: 50px
+  }
+  
+  #welcomenote{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 41px;
+  }
+ 
+  .navbar-brand{
+    font-size: 30px;
+   
+  }
+
+  
+  .cd{
+    height: 300px;
+    width: 400px;
+    border-radius: 10%;
+    padding: 10px;
+    background-color: rgb(37, 2, 26);
+
+  }
+ 
+  .button{
+    padding-right: 170px;
+  }
+  th{
+    width: 150px;
+ 
+  }
+
+
+
+  
+.title{
+  font-size: 40px;
+}  
+
+  
+
+
+
+.outcd{
+  background-color: rgba(3, 87, 31, 0.945);
+
+}
+h1{
+  font-size: 50px;
+}
